@@ -1,0 +1,5 @@
+*.iml
+venv
+.ipynb_checkpoints
+.idea
+tripdata.csv
